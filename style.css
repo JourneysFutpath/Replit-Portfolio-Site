@@ -397,8 +397,9 @@ hr{
 	.nav-bar li{
 		opacity: 0;
 	}
+}
 	
 .nav-active{
 	transform: translatex(0%);
 	}
-}
+
